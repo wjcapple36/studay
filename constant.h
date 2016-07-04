@@ -278,4 +278,5 @@ enum {PWU_V0 = 0,PWU_V48,PWU_V220 };
 //无效fd
 #define INVALID_FD  0
 #define branch develop
+#define TMP_BRANCH
 #endif // CONSTANT_H
